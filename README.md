@@ -26,3 +26,5 @@ docker-compose run --rm npm run dev # this is just npm run dev
 docker-compose run --rm artisan server # this is just php artisan serve
 
 ```
+# Inspirations
+This template was inspired by (docker-compose-laravel)[https://github.com/aschmelyun/docker-compose-laravel]
