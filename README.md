@@ -1,6 +1,7 @@
-# laravel-docker-template
-A laravel, docker, nginx, mysql , redis and mailhog template
+# Laravel Docker Template
+A Laravel, Docker, Nginx, MySQL, Redis, and Mailhog template
 
+# Installation
 After you have cloned this repository or used this template as your starter code then run 
 ```bash
 docker-compose build && docker-compose up -d
