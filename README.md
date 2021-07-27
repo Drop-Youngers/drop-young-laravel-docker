@@ -26,5 +26,7 @@ docker-compose run --rm npm run dev # this is just npm run dev
 docker-compose run --rm artisan server # this is just php artisan serve
 
 ```
+## laravel mix
+If you want to continue with laravel mix you can take a look on inspiration repo below
 # Inspirations
 This template was inspired by [docker-compose-laravel](https://github.com/aschmelyun/docker-compose-laravel)
