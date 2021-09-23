@@ -23,7 +23,7 @@ Contributions are always welcome😀!
 
 **Load-Balancer:** Nginx
 
-**Package-Manger:** Maven
+**Package-Manger:** Composer
 
 **Email Testing Tool:** Mailhog
 
